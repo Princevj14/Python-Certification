@@ -1,0 +1,34 @@
+1. In Python 3, what is the type of type(range(5))
+2.What is the data type of the following
+	aTuple = (1, 'Jhon', 1+3j)
+print(type(aTuple[2:3]))
+3.What is the data type of print(type(10))
+4.Which of the following is used to represent 'nothing'?
+5.Which is the correct operator for power(xy)?
+6.Which one of these is floor division?
+7.What is the answer to this expression, 22 % 3 is?
+8.The expression Int(x) implies that the variable x is converted to integer.
+9.Write a Python program to convert temperatures to and from celsius, fahrenheit. 
+[ Formula : c/5 = f-32/9 [ where c = temperature in celsius and f = temperature in fahrenheit ]
+Expected Output :
+60°C is 140 in Fahrenheit
+45°F is 7 in Celsius
+10. Write a Python program that accepts a word from the user and reverse it.
+11.Write a Python program to get the Fibonacci series between 0 to 50.
+12.Write a Python program that accepts a sequence of lines (blank line to terminate) as input and prints the lines as output (all characters in lower case).
+13.We’ll use the following steps to calculate the sum of N numbers.
+
+Create a list of integers and populate with N (=6) values.
+Initialize a variable (sum) for storing the summation.
+Loop N (=6) number of times to get the value of each integer from the list.
+In the loop, add each value with the previous and assign to a variable named as the sum.
+Divide the “sum” with N (=6). We used the len() function to determine the size of our list.
+The output of the previous step is the average we wanted.
+Finally, print both the “sum” and the average.
+14.Find A Fibonacci Sequence Upto nth Term Using The While Loop
+15.Write a python program to print the square of all numbers from 0 to 10
+16.Write a python program to print all prime numbers between 0 to 100 , and print how many prime numbers are there.
+17.Write a Python function to multiply all the numbers in a list.
+18.Write a Python function to calculate the factorial of a number (a non-negative integer). The function accepts the number as an argument.
+19.Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters.
+20.Write a Python function that takes a number as a parameter and check the number is prime or not.
